@@ -25,7 +25,7 @@ A fast, simple, and interactive quiz application built with **React**. Users can
 ## 📦 How to Run Locally
 1. Clone the repository
 ```
-git clone https://github.com/aneesh-acharyeah/quiz-app.gi
+git clone https://github.com/aneesh-acharyeah/react-quiz-app.git
 ```
 2. Install dependencies
  ```
